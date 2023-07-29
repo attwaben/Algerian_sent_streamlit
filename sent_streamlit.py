@@ -12,7 +12,7 @@ with st.container():
 
     st.header('this is my first app with streamlit')
 
-    st.subheader('Try this app and you will be back')
+    st.subheader('Try this app and send me your feedback')
 
     st.write('This is an app that takes an Algerian arabic sentence then returns its sentiment')
 
