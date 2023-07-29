@@ -10,7 +10,7 @@ st.set_page_config(page_title='my_app', layout="wide")
 
 with st.container():
 
-    st.header('this is my first app with streamlit')
+    st.header('This is my first app with streamlit')
 
     st.subheader('This app is made for learning purposes')
 
