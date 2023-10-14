@@ -1,5 +1,5 @@
 # Algerian_sent_streamlit
-Requirements
-streamlit
-pandas
-tensorflow
+#Requirements
+##streamlit
+##pandas
+##tensorflow
