@@ -2,5 +2,5 @@
 #Requirements
 ##streamlit
 ##pandas
-##tensorflow
+##tensorflow//
 Algerian dialect sentiment analysis model
