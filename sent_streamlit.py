@@ -63,7 +63,7 @@ print(input_ids)
 
 #print(input_ids)
 
-model = tf.keras.models.load_model('algerian_sent_model.h5')
+model = tf.keras.models.load_model('algerian_sent_model.keras')
 
 
 
@@ -96,3 +96,4 @@ st.success('your sentence is  ' + str(sent_[0]))
     #st.write('More data is needed')
 #else :
     #pass
+
